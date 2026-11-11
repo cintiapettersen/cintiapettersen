@@ -19,7 +19,7 @@ An early childhood companion for families, combining memories, health record org
 **[The Brand Box](https://thebrandbox.design)** 
 An AI-guided branding platform combining creative strategy, structured workflows, and generative AI to help businesses develop visual identities. Proprietary project.
 
-**My Year, My Story (MYMS)**  
+**[My Year, My Story (MYMS)](https://meu-portfolio-azure-alpha.vercel.app/cases-myyear.html)**
 A personal storytelling and memory-keeping app designed to help people capture meaningful moments and turn everyday experiences into lasting stories. Built as an independent digital product, with mobile releases in progress for iOS and Android. Proprietary project.
 
 ### 🛠️ Technologies & Tools
